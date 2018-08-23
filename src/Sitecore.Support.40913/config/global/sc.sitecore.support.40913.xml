@@ -1,0 +1,12 @@
+﻿<Settings>
+  <Sitecore>
+    <Publishing>
+      <Services>       
+        <ItemCloneManifestPromoter>
+          <Type>Sitecore.Support.Framework.Publishing.DataPromotion.DefaultItemCloneManifestPromoter, Sitecore.Support.40913</Type>
+          <As>Sitecore.Framework.Publishing.DataPromotion.IItemCloneManifestPromoter, Sitecore.Framework.Publishing.Service.Abstractions</As>
+        </ItemCloneManifestPromoter>       
+      </Services>
+    </Publishing>
+  </Sitecore>
+</Settings>
